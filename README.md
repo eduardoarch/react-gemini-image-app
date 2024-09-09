@@ -8,7 +8,11 @@ Bem-vindo ao meu projeto de estudo: **Leitor e Analisador de Imagem com IA**! Es
 2. **Fazer uma Pergunta** ❓: Após carregar a imagem, o usuário pode fazer uma pergunta específica sobre o conteúdo da imagem, e nossa IA fornecerá uma resposta.
 3. **Surpreenda-me!** 🎲: Se o usuário não sabe o que perguntar, pode clicar no botão "Surpreenda-me" para receber uma sugestão de pergunta interessante sobre a imagem.
 
-https://github.com/user-attachments/assets/35c9ce0c-aed4-4e69-a8b3-bcd09908b435
+
+
+https://github.com/user-attachments/assets/4cb1a0e1-756d-407e-8263-e83a6f83aae6
+
+
 
 ## 🛠️ Tecnologias Utilizadas
 
